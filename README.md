@@ -10,10 +10,10 @@ This repository contains source for assignment 1 for Machine Learning course by 
 
 ## Question
 Four pairs of vectors are given: (X1,Y1), (X2,Y2), (X3,Y3), (X4,Y4).
-a. Plot the four pairs. Then comment on what would you expect as correlation coefficient between them.
-b. Compute correlation, covariance and correlation coefficient manually by writing your own functions. Also check correlation coefficient by MATLAB's builtin function corrcoef
+1. Plot the four pairs. Then comment on what would you expect as correlation coefficient between them.
+2. Compute correlation, covariance and correlation coefficient manually by writing your own functions. Also check correlation coefficient by MATLAB's builtin function corrcoef
 
-### Part (a)
+### Part (1)
 
 Here are the four plots. As labeled in the figure:
 
@@ -30,7 +30,7 @@ In the four given scenarios, we would expect correlation coefficient to be:
 3. Closer to zero as compared to 1st and 2nd case
 4. Close to zero but greater than 3rd case as there is a correlation in the start
 
-### Part (b)
+### Part (2)
 
 ```
 Correlation between X1 and Y1
